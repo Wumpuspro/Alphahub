@@ -1294,7 +1294,6 @@ end
 
 		StatusMain:AddLabel("Username : "..game.Players.LocalPlayer.Name)
 		local sea = StatusMain:AddLabel("Sea : ")
-		local MoonPhase = 
 		local OnlineTimer = StatusMain:AddLabel("Loading..")
 		StatusMain:AddLabel("Date : "..os.date("%d".." ".."%B".." ".."%Y"))
 
