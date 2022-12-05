@@ -1,3 +1,4 @@
+--hi--
 local DINOHUB = Instance.new("ScreenGui")
 local OPENCLOSE = Instance.new("TextButton")
 
